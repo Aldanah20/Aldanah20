@@ -45,7 +45,7 @@
     alt="GitHub Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldanah20&layout=compact&theme=default&hide_border=true&langs_count=5&custom_title=Main%20Languages&hide=c%2B%2B,python,java,CMake,swift" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldanah20&layout=compact&theme=default&hide_border=true&langs_count=5&custom_title=Main%20Languages&hide=c%2B%2B,CMake,swift" 
     height="160px" 
     alt="Top Languages"
   />
