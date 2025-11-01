@@ -1,4 +1,5 @@
-### 👋 Hi, I'm Aldanah Alabdulhay
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=8A2BE2&font=Fira%20Code&width=300&lines=Hi,+I'm+Aldanah+Alabdulhay)](https://git.io/typing-svg)
 
 💻 Front-End Developer & UI/UX Designer passionate about crafting intuitive, user-centered digital experiences.  
 🎓 CIS Graduate from King Faisal University.  
